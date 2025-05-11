@@ -25,7 +25,10 @@ A responsive landing page for TinDog — a fictional dog dating app, built with 
 
 ## Screenshots
 
-![App Screenshot](./images/iphone.png)
+![App Screenshot](./image/image1.png)
+![App Screenshot](./image/image2.png)
+
+
 
 ## License
 
